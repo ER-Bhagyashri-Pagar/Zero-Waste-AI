@@ -11,7 +11,7 @@
 
 ## 📋 About This Project
 
-**ZeroWaste.AI** is an AI-powered food waste prevention platform that combines real-time computer vision detection, multimodal OCR, intelligent recipe generation, and graph-optimized distribution networks. This project tackles the global food waste crisis by preventing spoilage through prediction and connecting surplus food with those in need through efficient routing.
+**Zero Waste AI** is an AI-powered food waste prevention platform that combines real-time computer vision detection, multimodal OCR, intelligent recipe generation, and graph-optimized distribution networks. This project tackles the global food waste crisis by preventing spoilage through prediction and connecting surplus food with those in need through efficient routing.
 
 **Harmonizing Product, Nature & Life through AI-Driven Waste Prevention**
 
