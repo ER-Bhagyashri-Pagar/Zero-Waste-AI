@@ -61,24 +61,6 @@ Transform food waste from a crisis into an opportunity by preventing spoilage be
 - NGO network mapping with geospatial intelligence
 - Efficient surplus redistribution to communities in need
 
-## 🏗️ Technical Architecture
-```
-```
-┌──────────────────────────────────────────────┐
-│        Django Backend (Primary Service)       │
-│  Food Tracking | YOLO Detection | OCR | DB   │
-└────────────┬─────────────────────────────────┘
-             │
-    ┌────────┴────────┐
-    │                 │
-    ▼                 ▼
-┌─────────┐     ┌──────────────┐
-│ React   │     │  External    │
-│ Chatbot │     │  APIs        │
-│ (Vercel)│     │ Gemini|Twilio│
-└─────────┘     └──────────────┘
-```
-
 ### **System Components**
 - **Backend**: Django framework with REST APIs for data processing and AI orchestration
 - **Frontend**: React application deployed on Vercel CDN for global distribution
